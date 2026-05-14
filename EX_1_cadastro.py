@@ -22,6 +22,9 @@ idade = int(input("Digite a sua idade :"))
 email = input("Digite o seu email:")
 senha = int(input("Digite a sua senha :"))
 
-print(" | ------------------------------ |")
+print("| ------------------------------ |")
 print("| ---------- CADASTRO ---------- |")
 print("| ------------------------------ |")
+
+print(f"Seja bem vindo {nome}")
+print(f"Seu email é:  {email}")
